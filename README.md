@@ -26,7 +26,7 @@ Issus with current situation
 - CI Pipeline
   - Fault Isolation
   - Agile
-  - Short MTTR
+  - Short MTTR (Min Time to Repair)
   - No Human Intervention
 
 ## Tools
